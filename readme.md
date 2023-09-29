@@ -1,6 +1,7 @@
 ## About  
 
-``` Clustering of Data Through Hierarchical Clustering (Ward, Centroid, and Average) along with K-Means Clustering to better understand market segments for EastWest Airlines. 
+``` 
+Clustering of Data Through Hierarchical Clustering (Ward, Centroid, and Average) along with K-Means Clustering to better understand market segments for EastWest Airlines. 
 
 Reports are Outlined as Summary, Dendrogram, Scatterplot Matrix, and Parallel Coord Plots
 
@@ -9,7 +10,8 @@ Note Parallel Coord Plots listed within ParallelPlots.txt
 
 ## Goal  
 
-``` Identify clusters of passengers with similar characteristics to target different segments for different types of mileage offers
+``` 
+Identify clusters of passengers with similar characteristics to target different segments for different types of mileage offers
 
 ```
 
